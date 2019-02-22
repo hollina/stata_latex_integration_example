@@ -1,0 +1,6 @@
+PWD /Users/hollina/Box Sync/marijuana_alcohol/marijuana_use/tables_and_figures_latex/latex_extras
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT dynamic_tables.tex
+OUTPUT dynamic_tables.log
